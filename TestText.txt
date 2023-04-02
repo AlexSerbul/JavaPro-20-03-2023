@@ -1,2 +1,0 @@
-First text to add to file
-Text that was added at dev-1
